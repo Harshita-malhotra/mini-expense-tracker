@@ -16,7 +16,6 @@ A simple full-stack expense tracker built with React, Node.js, Express and Mongo
 - React
 - Node.js
 - Express
-- MongoDB
 - Mongoose
 
 ## Run Locally
